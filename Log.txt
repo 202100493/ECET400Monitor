@@ -1,0 +1,6 @@
+1/31/2025 - 
+Soidified project idea, settled on the idea of a sensor cluster wearable that will monitor health and surrounding hazards, mainly used for construction
+or other unseen dangers in which the personnel would not usually be able to detect otherwise. Could be expanded as a way of monitoring the health and environment of 
+personnel in areas that are hard to reach.
+Decided on some potential models of sensors and microprocessors, protocol to be used will be I2C. First prototype will be done through protoboard.
+Also began to look up sources on the potential marketability of similar wearables or if there are any pre-existing products.
