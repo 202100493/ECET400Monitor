@@ -1,0 +1,3 @@
+Microprocessor: AtMega16U2, TBD
+Heartrate/oxymeter: MAX30101 - I2C
+4in1 ambient sensor: BME688/690
